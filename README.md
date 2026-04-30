@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> في عيونك شفت الحياة
+> نور الحب دايماً ناداك
+> روحي ليك طول الأوقات
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
