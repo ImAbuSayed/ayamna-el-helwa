@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ayamna-el-helwa/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Ayamna El Helwa](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Ayamna El Helwa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
