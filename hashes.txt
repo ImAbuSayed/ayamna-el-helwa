@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ayamna El Helwa
+
+This log tracks the cryptographic history and versioning for the song **Ayamna El Helwa** (ayamna-el-helwa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:26:11.092762 | `v1` | `337a8d135deda399ed5a9468c1883fe253e792523b12f5240eee6fa049bcc2d8` | `1c529a5ec693657d5d564a610079e777b1238caee60aa8b6f5a61ec34fc67549` | `2026-05-09_ayamna-el-helwa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
